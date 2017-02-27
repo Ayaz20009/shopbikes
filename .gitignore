@@ -1,6 +1,5 @@
-# Project
+# Project files
+
 db.sqlite3
 __pycache__
-.idea
-.idea/vcs.xml
 shopbikes/settings.py
