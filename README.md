@@ -3,7 +3,7 @@
 
 ## Development setup
 
-We use [Virtualenv](https://virtualenv.pypa.io/en/stable/) to manage different Python (make sure it's python3) environments.
+We use [Virtualenv](https://virtualenv.pypa.io/en/stable/) to manage different Python environments. For our project, make sure it's python3.
 
 Retrieve our project
 ```
