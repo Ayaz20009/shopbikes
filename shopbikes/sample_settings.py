@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'shopbikes.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'shopbikes',
-        'USER': 'shopbikes',
-        'PASSWORD': 'shopbikes',
-        'HOST': 'localhost',
+        'NAME': 'name',
+        'USER': 'user',
+        'PASSWORD': 'password',
+        'HOST': 'host',
         'PORT': '',
     }
 }
