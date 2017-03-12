@@ -1,0 +1,25 @@
+html,body{
+    height:100%;
+    width:100%;
+}
+.home{
+    height:100%;
+    background: url("../images/home-background.jpeg");
+    background-size: cover;
+    width: 100%;
+    background-attachment: fixed;
+}
+.text-center{
+    margin-top:25%;
+    font-family: AppleGothic;
+    font-size: 80px;
+    color: white;
+}
+.second-section{
+    height: 100%;
+    background-color: aliceblue;
+}
+.third-section{
+    height:50%;
+    background-color: beige;
+}
